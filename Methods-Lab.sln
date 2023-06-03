@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.SignOfIntegerNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Grades", "P2.Grades\P2.Grades.csproj", "{C9457A1F-63EB-460A-B0DC-BE96D0AE8023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3.Calculations", "P3.Calculations\P3.Calculations.csproj", "{CD5D0F43-90CA-4742-9354-4F6B9C8B043D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9457A1F-63EB-460A-B0DC-BE96D0AE8023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9457A1F-63EB-460A-B0DC-BE96D0AE8023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9457A1F-63EB-460A-B0DC-BE96D0AE8023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5D0F43-90CA-4742-9354-4F6B9C8B043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5D0F43-90CA-4742-9354-4F6B9C8B043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5D0F43-90CA-4742-9354-4F6B9C8B043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5D0F43-90CA-4742-9354-4F6B9C8B043D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
