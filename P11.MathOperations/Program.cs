@@ -25,8 +25,8 @@ namespace P11.MathOperations
                 result = a - c;
             }
 
-            Console.WriteLine(result);
-            return result;
+            Console.WriteLine(result); // Why do I need to tell the console to write it 
+            return result;            // if I am using RETURN to get the result printed ????? 
             
         }
 
