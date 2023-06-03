@@ -25,7 +25,9 @@ namespace P11.MathOperations
                 result = a - c;
             }
 
-            return result; // why would this shit not RETURN THE FUCKING ANSWER ?!?!?!?!?!!?!?!?!?
+            Console.WriteLine(result);
+            return result;
+            
         }
 
         static void Main(string[] args)
