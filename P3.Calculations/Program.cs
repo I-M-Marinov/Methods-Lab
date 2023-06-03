@@ -4,7 +4,6 @@ namespace P3.Calculations
 {
     internal class Program
     {
-
         static void addition(int a, int b)
         {
             Console.WriteLine($"{a + b}");
@@ -45,10 +44,6 @@ namespace P3.Calculations
             {
                 division(number1, number2);
             }
-
-         
-
         }
-
     }
 }
