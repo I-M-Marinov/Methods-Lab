@@ -25,7 +25,7 @@ namespace P11.MathOperations
                 result = a - c;
             }
 
-            return result;
+            return result; // why would this shit not RETURN THE FUCKING ANSWER ?!?!?!?!?!!?!?!?!?
         }
 
         static void Main(string[] args)
